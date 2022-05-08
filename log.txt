@@ -1,23 +1,21 @@
-08-05-2022 16:23:40 --- log.txt has been opened successfully
-08-05-2022 16:23:40 --- Compared files have been opened successfully
-08-05-2022 16:23:40 --- Files: firstFile.bin and secondFile.bin have been compared successfully
-08-05-2022 16:23:40 --- Number of compared bits: 808
-08-05-2022 16:23:40 --- Number of different bits: 0
-08-05-2022 16:23:40 --- Computation time (ms): 0
-08-05-2022 16:23:40 --- Compared files have been closed
-08-05-2022 16:23:54 --- log.txt has been opened successfully
-08-05-2022 16:23:54 --- Compared files have been opened successfully
-08-05-2022 16:23:54 --- Files: thirdFile.bin and fourthFile.bin have been compared successfully
-08-05-2022 16:23:54 --- Number of compared bits: 808
-08-05-2022 16:23:54 --- Number of different bits: 0
-08-05-2022 16:23:54 --- Computation time (ms): 0
-08-05-2022 16:23:54 --- Compared files have been closed
-08-05-2022 16:24:12 --- log.txt has been opened successfully
-08-05-2022 16:24:12 --- Invalid file names. Program terminated
-08-05-2022 16:24:25 --- log.txt has been opened successfully
-08-05-2022 16:24:25 --- Compared files have been opened successfully
-08-05-2022 16:24:49 --- Files: fifthFile.bin and sixthFile.bin have been compared successfully
-08-05-2022 16:24:49 --- Number of compared bits: 3355443208
-08-05-2022 16:24:49 --- Number of different bits: 838860802
-08-05-2022 16:24:49 --- Computation time (ms): 23395
-08-05-2022 16:24:49 --- Compared files have been closed
+08-05-2022 16:33:31 --- log.txt has been opened successfully
+08-05-2022 16:33:31 --- Compared files have been opened successfully
+08-05-2022 16:33:31 --- Files: firstFile.bin and secondFile.bin have been compared successfully
+08-05-2022 16:33:31 --- Number of compared bits: 808
+08-05-2022 16:33:31 --- Number of different bits: 0
+08-05-2022 16:33:31 --- Computation time (ms): 0
+08-05-2022 16:33:31 --- Compared files have been closed
+08-05-2022 16:33:43 --- log.txt has been opened successfully
+08-05-2022 16:33:43 --- Compared files have been opened successfully
+08-05-2022 16:33:43 --- Files: thirdFile.bin and fourthFile.bin have been compared successfully
+08-05-2022 16:33:43 --- Number of compared bits: 808
+08-05-2022 16:33:43 --- Number of different bits: 22
+08-05-2022 16:33:43 --- Computation time (ms): 0
+08-05-2022 16:33:43 --- Compared files have been closed
+08-05-2022 16:34:02 --- log.txt has been opened successfully
+08-05-2022 16:34:02 --- Compared files have been opened successfully
+08-05-2022 16:34:25 --- Files: fifthFile.bin and sixthFile.bin have been compared successfully
+08-05-2022 16:34:25 --- Number of compared bits: 3355443208
+08-05-2022 16:34:25 --- Number of different bits: 838860802
+08-05-2022 16:34:25 --- Computation time (ms): 23165
+08-05-2022 16:34:25 --- Compared files have been closed
